@@ -3,5 +3,5 @@
 
 # checklist
 
-[x] 使用CMake维护构建
-[x] 使用Swig导出Python接口，重写Demo
+* [x] 使用CMake维护构建
+* [x] 使用Swig导出Python接口，重写Demo
