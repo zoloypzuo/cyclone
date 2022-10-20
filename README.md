@@ -5,13 +5,15 @@
 
 * [x] 使用CMake维护构建
 * [x] 使用Swig导出Python接口，重写Demo
+* [x] ZHT
 
 ## doc
 
 [doc.zip](https://github.com/zoloypzuo/cyclone/releases/download/v1.0/doc.zip)
 
-## === TOC
+## TOC
 
+```
 # 第一部分 基础 1
 >第1章 基本概念 3
 >第2章 运动学 30
@@ -266,3 +268,4 @@
 # 附录B 附录B 矩阵运算 440
 # 附录C 附录C 四元数运算 448
 # 参考文献 459
+```
